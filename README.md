@@ -9,3 +9,11 @@
 Сделано на основе парсера от [Master-Yoba/shadowrocket-rules](https://github.com/Master-Yoba/shadowrocket-rules)
 
 По идее, также совместимо с [Surge](https://apps.apple.com/us/app/surge-5/id1442620678)
+#
+Ниже приведена готовая конфигурация с разными DNS, являющаяся адаптацией конфигураций из [frayZV/simple-ru-routing](https://github.com/frayZV/simple-ru-routing) под Shadowrocket, если вы не ходите заморачиваться с созданием своей
+
+| Конфиг | Публичный DNS |
+|-----------|-----------|
+| [Default](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/simple-ru-routing/RU_SRR_D_A.conf) | AdGuard DNS + Yandex DNS |
+| [Default](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/simple-ru-routing/RU_SRR_D_C.conf) | Cloudflare DNS + Yandex DNS |
+| [Default](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/simple-ru-routing/RU_SRR_D_G.conf) | Google DNS + Yandex DNS |
