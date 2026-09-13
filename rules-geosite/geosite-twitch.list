@@ -1,0 +1,16 @@
+# NAME: geosite-twitch
+# UPDATED: 2026-09-13 04:01:31
+# DOMAIN: 8
+# DOMAIN-SUFFIX: 3
+# TOTAL: 11
+DOMAIN,ads.twitch.tv
+DOMAIN,auth.brandis.us
+DOMAIN,global.poe.live-video.net
+DOMAIN,imasdk.googleapis.com
+DOMAIN,playlist.ttvnw.net
+DOMAIN,reporting.cdndex.io
+DOMAIN,sb.scorecardresearch.com
+DOMAIN,spade.twitch.tv
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,kouch.tv
